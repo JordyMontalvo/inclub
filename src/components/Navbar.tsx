@@ -18,9 +18,10 @@ export default function Navbar() {
 
   const navLinks = [
     { name: "Proyectos", href: "#proyectos" },
-    { name: "Comunidad", href: "#comunidad" },
+    { name: "Simulador", href: "#simulador" },
     { name: "Membresías", href: "#membresias" },
-    { name: "El Negocio", href: "#negocio" },
+    { name: "Comparativa", href: "#comparativa" },
+    { name: "FAQ", href: "#faq" },
     { name: "Contacto", href: "#contacto" },
   ];
 
